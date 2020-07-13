@@ -1,7 +1,7 @@
 # PUBLIC DOMAIN  
 
-# getSystemDevices
+`getSystemDevices`
 
-<h5>Motivation</h5>
+<h4>Motivation</h4>
 
 Create and maintain a uniform, consistent user interface to get, list, select any and all system media devices for capture.
